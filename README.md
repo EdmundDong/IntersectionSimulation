@@ -13,9 +13,9 @@ Created by @HaydnNitzsche and @EdmundDong
 **WANT**
 *Extra features we want to add/enable*
 1. Different types of car
-  - Buses
-  - Semi/Box Trucks
+   - Buses
+   - Semi/Box Trucks
 2. Turn signals at lights
 3. Variant behavior
-  - Speeders
-  - Different driving styles
+   - Speeders
+   - Different driving styles
