@@ -19,3 +19,6 @@ Created by @HaydnNitzsche and @EdmundDong
 3. Variant behavior
    - Speeders
    - Different driving styles
+4. Different types of intersection
+   - Roundabout
+   - multi (2+) way 
